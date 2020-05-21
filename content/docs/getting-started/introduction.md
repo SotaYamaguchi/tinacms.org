@@ -33,7 +33,7 @@ If you want to dive deep, start by learning more about [how Tina works](/docs/ge
 
 **Next.js Starters**
 
-* [Next.js Markdown Blog](https://github.com/kendallstrautman/brevifolia-next-tinacms) configured for Tina.
+* [Next.js Markdown Blog](https://github.com/kendallstrautman/brevifolia-next-tinacms "タイトル") configured for Tina.
 
 ## For Gatsby
 
